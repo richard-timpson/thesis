@@ -1,0 +1,6 @@
+[submodule "virtuosoNet"]
+	path = virtuosoNet
+	url = git@github.com:richt3211/virtuosoNet.git
+[submodule "virtuosoData"]
+	path = virtuosoData
+	url = git@github.com:richt3211/virtuosoData.git
