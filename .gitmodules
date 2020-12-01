@@ -4,3 +4,9 @@
 [submodule "virtuosoData"]
 	path = virtuosoData
 	url = git@github.com:richt3211/virtuosoData.git
+[submodule "thesis-midi-player"]
+	path = thesis-midi-player
+	url = git@github.com:richt3211/thesis-midi-player.git
+[submodule "thesis-proposal"]
+	path = thesis-proposal
+	url = git@github.com:richt3211/thesis-proposal.git
