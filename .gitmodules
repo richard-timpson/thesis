@@ -10,3 +10,6 @@
 [submodule "thesis-proposal"]
 	path = thesis-proposal
 	url = git@github.com:richt3211/thesis-proposal.git
+[submodule "thesis-paper"]
+	path = thesis-paper
+	url = git@github.com:richt3211/thesis-paper.git
